@@ -13,5 +13,6 @@ ___
 ___
 ## Cкриншоты
 ![Иллюстрация к проекту](https://github.com/Pankratov25/chess/blob/main/Screenshots/Screenshot_1.png)
+___
 ## Описание среды 
  Программа написана на языке Python 3.7 в среде Spyder. Следует открывать файл Chess.py
